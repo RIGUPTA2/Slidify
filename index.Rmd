@@ -41,6 +41,11 @@ url         :
 
 - Once subject is understood see whether you could work upon some freelancer project on your own
 - This will give you clarity on where you stand
+- Always try to get the hands-on experience on the subject
+- For example the following r code helps in loading the data into memory
+```{r}
+library(packagename)
+```
 
 ---
 ## Create Benchmark
